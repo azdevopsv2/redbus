@@ -1,0 +1,53 @@
+pwd
+cd 
+cd ..
+touch
+vi filename
+esc:wq,esc:q!
+cat filename
+echo "msg"
+rmdir
+rm -rf
+ls -ll
+
+
+file permissions
+---------------
+
+read R  4
+write W 2
+execute X 1
+ u   G  o
+-rw-r--r-- 
+
+chmod 7(4+2+1)    7(4+2+1)    7(4+2+1)  
+chmod 7rwx 4R      4R
+
+bgjsvbs
+svbjsdbvjs
+avbjsbvoshvs
+svdklnvklvp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
